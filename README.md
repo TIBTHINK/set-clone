@@ -8,7 +8,7 @@ Company: [TrustedSec](https://www.trustedsec.com)
 
 DISCLAIMER: This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
-Please read the LICENSE under readme/LICENSE for the licensing of SET. 
+Please read the LICENSE under readme/LICENSE for the licensing of SET.
 
 
 # SET Tutorial
@@ -30,7 +30,7 @@ For bug reports or enhancements, please open an [issue](https://github.com/trust
 ## Supported platforms
 
 * Linux
-* Mac OS X 
+* Mac OS X
 
 # Installation
 ## Resolve dependencies
@@ -72,8 +72,9 @@ $ pip install pexpect pycrypto pyopenssl pefile
 *All OSs*
 
 ```bash
-$ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
-$ cd set
-$ python setup.py install
+ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
+ cd set
+ python setup.py install
 ```
-# set
+# DISCLAIMER
+THIS IS NOT MY CODE AND NEVER WILL BE
